@@ -1,24 +1,7 @@
-# README
+# Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## "Toy Application"
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is the second application for the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/). Toy Application uses scaffolding in order to speed up the process of creating a Ruby on Rails application with minimal understanding required of how it works. Its used as an introduction to Ruby on Rails as well as to see the shortcuts available in development. 
